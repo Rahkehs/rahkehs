@@ -13,8 +13,8 @@
 
 - 📄 Know about my experiences [https://rahkehs.github.io/shekhar/](https://rahkehs.github.io/shekhar/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/@shekharshrest15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shekharshrest15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shekhar-shrestha27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shekhar-shrestha27" height="30" width="40" /></a>
 <a href="https://fb.com/itsmeshekhar27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsmeshekhar27" height="30" width="40" /></a>
