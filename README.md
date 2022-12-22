@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahkehs" alt="rahkehs" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@shekharshrest15" target="blank"><img src="https://img.shields.io/twitter/follow/@shekharshrest15?logo=twitter&style=for-the-badge" alt="@shekharshrest15" /></a> </p>
-
 - 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Everything**
