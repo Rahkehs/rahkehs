@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shekhar Shrestha</h1>
+<h1 align="center">Hi, I'm Shekhar</h1>
 <h3 align="center">A passionate developer.</h3>
 
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
