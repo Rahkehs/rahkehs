@@ -37,11 +37,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <center>
  <div>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahkehs&show_icons=true&locale=en&layout=compact" alt="rahkehs" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahkehs&show_icons=true&locale=en&layout=compact" alt="rahkehs" width="380" /></p>
   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahkehs&" alt="rahkehs" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahkehs&" alt="rahkehs" width="380" /></p>
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahkehs&show_icons=true&locale=en" alt="rahkehs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahkehs&show_icons=true&locale=en" alt="rahkehs" width="380" /></p>
 </center>
 
 
